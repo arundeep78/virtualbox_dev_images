@@ -2,7 +2,8 @@
 
 ## [Download Debian 11](https://www.debian.org/CD/http-ftp/#stable) 
 
-from its mirror servers for your architecture and specific situation. In my case it Debian 11 network install. It is small and I did not need graphic frontend for VirtualBox usage.
+from its mirror servers for your architecture and specific situation. In my case it Debian 11 network install. It is small and I did not need graphic frontend for my usage.
+
 ## Install Debian on VirtualBox. 
 
 If you need help, you can use this [simple procedure from wikiHow](https://www.wikihow.com/Install-Debian-in-Virtualbox)
@@ -140,7 +141,7 @@ sudo snap install core
 8. Install any VS code remote extension for your requirements e.g. `markdown`, `python` etc.
 9. Configure SSH keys to enable password-free access (Optional). Follow instructions from [official documentation](https://code.visualstudio.com/docs/remote/troubleshooting#_quick-start-using-ssh-keys) for your platform. 
 
-## Virtual BOX VM with Debian 11 is ready!!
+## VirtualBox VM with Debian 11 is ready!!
 
 One can backup the virtual machine .vdi file or the whole folder. This file can then later be imported to start on a different machine or create another VM based on this image.
 

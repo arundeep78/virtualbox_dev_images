@@ -1,4 +1,4 @@
-# VirtualBox Debiab image with Microk8s installation
+# VirtualBox Debian image with Microk8s installation
 
 This documentation is to have configure a Debian 11 image in VirtualBox with microk8s installed on the image. This is based on the [standard Debian 11 image configured with basic tools like Oh-my-ZSH etc](base_debian_readme.md).
 
